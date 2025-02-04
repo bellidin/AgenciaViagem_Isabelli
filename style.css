@@ -47,7 +47,7 @@ nav a {
 .sidebar {
     flex: 1;
     min-width: 200px;
-    background: #f1f1f1;
+    background: #C5D1BA;
     padding: 15px;
     border-radius: 8px;
 }
@@ -57,13 +57,13 @@ nav a {
     padding: 15px;
 }
 .subtittle{
-    color: #f1f1f1;
+    color: #C5D1BA;
     font-size: 2.5rem;
 }
 .secondary{
     flex: 1;
     min-width: 200px;
-    background: #f9f9f9;
+    background: #C5D1BA;
     padding: 15px;
     border-radius: 8px;
 }
@@ -71,7 +71,7 @@ li{
     padding: 9px;
 }
 footer {
-    background: #0077b6;
+    background: #79876C;
     color: white;
     text-align: center;
     padding: 10px;
@@ -88,7 +88,7 @@ input, button{
     border-radius: 5px;
 }
 button{
-    background: #0077b6;
+    background: #79876C;
     color: white;
     cursor: pointer;
     font-weight: bold;
